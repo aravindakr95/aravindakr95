@@ -17,6 +17,16 @@ I am a developer who is passionate about stuffs on javascript based web developm
 
 Interested Domain: JavaScript/ TypeScript based Web Development
 
+## Table of Contents
+   <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+   <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Language and Tools](#languages-and-tools)
+- [Profile Statistics](#profile-statistics)
+- [Recent Post on Medium](#recent-post-on-medium)
+
+   <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### Languages and Tools:
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
