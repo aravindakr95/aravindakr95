@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/aravindakr95/" target="_blank" style='margin-right:10px'>
     <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="22" />
 </a>
-<a href="https://www.medium.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+<a href="https://medium.com/@aravindakr95" target="_blank" style='margin-right:10px'>
     <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" width="22" />
 </a>
 
