@@ -15,17 +15,7 @@
 
 I am a developer who is passionate about stuffs on javascript based web development. Few techs that I enjoy working in are NodeJS, Angular, React and interested on AWS cloud platform. I would like to hear from colleagues who have the same interests with my technology stack.
 
-Interested Domain: JavaScript/ TypeScript based Web Development
-
-### :book: Table of Contents
-   <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-   <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-[Language and Tools](#bulb-languages-and-tools) <br>
-[Profile Statistics](#seedling-profile-statistics) <br>
-[Recent Post on Medium](#zap-recent-post-on-medium) <br>
-
-   <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+Interested Working Domain: JavaScript and TypeScript based Web Development
 
 ### :bulb: Languages and Tools
 <p align="left">
